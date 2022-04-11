@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JorrisonFord
 - 👀 I’m interested in Neuroscience, Psychology, Physics, Gaming and Problem Solving.
 - 🌱 I’m currently learning Python and R.
-- 💞️ I’m looking to collaborate on projects that drive the digitalization in general and mental health research and practics.
+- 💞️ I’m looking to collaborate on projects that drive digitalization in healthcare, mental health research and practics.
 - 📫 How to reach me: joris.vanbohemen@gmail.com
 
 <!---
